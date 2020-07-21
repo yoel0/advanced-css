@@ -1,0 +1,9 @@
+.container {
+  border: 3px solid red;
+}
+
+@media (max-width: 600px) {
+  .container {
+    border: 3px dashed blue;
+  }
+}
